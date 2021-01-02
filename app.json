@@ -1,0 +1,21 @@
+{
+	"name": "Kripiki kriuk",
+	"description": "kropospo",
+	"repository": "https://github.com/makeran218/loperkoran",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": [
+		"kripik",
+		"makanan",
+		"cloud"
+	],
+	"env": {
+		"MASTER_KEY": {
+			"description": "The key to administrate the app.",
+			"required": true
+		},
+		"INDAHLISIO": {
+			"description": "Masukin kata indah",
+			"required": false
+		}
+	}
+}
